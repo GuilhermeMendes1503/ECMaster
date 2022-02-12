@@ -1,0 +1,10 @@
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\bin\Debug\EPR_InternTool.exe
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\bin\Debug\EPR_InternTool.pdb
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.csprojResolveAssemblyReference.cache
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.exe
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.pdb
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.csproj.GenerateResource.Cache
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.Login.resources
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.Stock.resources
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.Catalogo.resources
+C:\Users\BVN\Documents\SharpDevelop Projects\EPR_InternTool\EPR_InternTool\obj\Debug\EPR_InternTool.Produtos.resources
